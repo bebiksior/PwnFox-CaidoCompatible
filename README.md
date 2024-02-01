@@ -1,6 +1,7 @@
 # <img src="/firefox/icons/icon.svg" width=30> PwnFox
 
-### This is slightly modified version of PwnFox compatible with [EvenBetter](https://github.com/bebiksior/EvenBetter) Caido plugin. It's modified to provide container color within query parameter instead of header. Also, I've added a new checkbox to colorize top level navigation (it's not perfect yet, it sends two requests one without the color parmeter and then second with the color parameter). Installing extensions on Firefox is a bit harder than on Chrome, you need to sign it first. You can do it manually or you can download a pre-signed file and import it into your Firefox at `about:addons`.
+### This is slightly modified version of PwnFox compatible with [EvenBetter](https://github.com/bebiksior/EvenBetter) Caido plugin. It's modified to provide container color within query parameter instead of header. Also, I've added a new checkbox to colorize top level navigation (it's not perfect yet, it sends two requests one without the color parmeter and then second with the color parameter). 
+### Installing extensions on Firefox is a bit harder than on Chrome, you need to sign it first. You can do it manually or you can download a pre-signed file and import it into your Firefox at `about:addons`.
 
 
 
