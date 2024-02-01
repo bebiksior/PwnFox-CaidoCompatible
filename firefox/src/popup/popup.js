@@ -71,6 +71,7 @@ async function main() {
     bindCheckboxToConfig("#option-useBurpProxyContainer", config, "useBurpProxyContainer")
     bindCheckboxToConfig("#option-addContainerHeader", config, "addContainerHeader")
     bindCheckboxToConfig("#option-removeSecurityHeaders", config, "removeSecurityHeaders")
+    bindCheckboxToConfig("#option-colorizeTopLevelNavigation", config, "colorizeTopLevelNavigation")
     bindCheckboxToConfig("#option-injectToolbox", config, "injectToolbox")
 
     /* Hook settings link */

@@ -7,6 +7,7 @@ const defaultConfig = {
     injectToolbox: false,
     logPostMessage: true,
     removeSecurityHeaders: false,
+    colorizeTopLevelNavigation: false,
     burpProxyHost: '127.0.0.1',
     burpProxyPort: '8080',
     activeToolbox: null,
